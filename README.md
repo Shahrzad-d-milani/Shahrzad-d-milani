@@ -2,5 +2,5 @@
 
 I am Shahrzad, live in **Leipzig**.
 
-![Papillon](https://ashcombka.com/2019/10/29/book-review-papillon-by-henri-charriere/)
+![Papillon](https://fastly.picsum.photos/id/663/200/300.jpg?hmac=OYPBwsRmaygvAiTN0M4ZNNWBZqgbTGuH2aXkJ4FLX_M)
 
