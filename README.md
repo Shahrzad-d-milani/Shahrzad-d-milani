@@ -4,9 +4,9 @@ I am Shahrzad, live in **Leipzig**.
 
 ---
 ##Interests:
-   1.*hobby1*
-   2.*hobby2*
-   3.*hobby3*
+**hobby1*
+**hobby2*
+**hobby3*
 
    ---
 
