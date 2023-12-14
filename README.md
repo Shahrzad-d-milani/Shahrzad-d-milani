@@ -3,10 +3,10 @@
 I am Shahrzad, live in **Leipzig**.
 
 ---
-##Interests:
-**hobby1*
-**hobby2*
-**hobby3*
+## Interests:
+* *hobby1*
+* *hobby2*
+* *hobby3*
 
    ---
 
